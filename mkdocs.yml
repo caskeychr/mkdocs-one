@@ -1,4 +1,4 @@
-site_name: MKDocs One
+site_name: MkDocs One
 nav:
   - Home: index.md
   - Info: info.md
